@@ -20,7 +20,7 @@ int main(int argc, char** argv) {
     //创建对象
     MyTrade fycTrade;
     //启动服务
-    fycTrade.Run("simnow_client_test", "0000000000000000", "tcp://180.168.146.187:10212", "tcp://180.168.146.187:10202", "9999", "198450", "jjmfc1984!");
+    fycTrade.Run("simnow_client_test", "0000000000000000", "tcp://180.168.146.187:10212", "tcp://180.168.146.187:10202", "9999", "021739", "123456");
     while(true)
     {
             string input;

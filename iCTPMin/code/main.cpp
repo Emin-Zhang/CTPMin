@@ -1,5 +1,5 @@
 /*
- * iCTPMin期货行情交易(非开源)
+ * iCTPMin期货行情交易(开源)
  * 上海卷卷猫信息技术有限公司
  */
 
@@ -18,7 +18,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	//创建对象
 	MyTrade fycTrade;
 	//启动服务
-	fycTrade.Run("simnow_client_test", "0000000000000000", "tcp://180.168.146.187:10212", "tcp://180.168.146.187:10202", "9999", "198450", "jjmfc1984!");
+	fycTrade.Run("simnow_client_test", "0000000000000000", "tcp://180.168.146.187:10212", "tcp://180.168.146.187:10202", "9999", "021739", "123456");
 	while(true)
 	{
 		string input;

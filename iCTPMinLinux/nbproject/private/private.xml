@@ -10,17 +10,15 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Miao/test/iCTPMinLinux/main.cpp</file>
-            <file>file:/C:/Miao/test/iCTPMinLinux/MT.cpp</file>
-            <file>file:/C:/Miao/test/iCTPMinLinux/MD.h</file>
-            <file>file:/C:/Miao/test/iCTPMinLinux/MT.h</file>
-            <file>file:/C:/Miao/test/iCTPMinLinux/MyTrade.cpp</file>
-            <file>file:/C:/Miao/test/iCTPMinLinux/MD.cpp</file>
-            <file>file:/C:/Miao/test/iCTPMinLinux/TD.cpp</file>
-            <file>file:/C:/Miao/test/iCTPMinLinux/TD.h</file>
-            <file>file:/C:/Miao/test/iCTPMinLinux/ThostFtdcMdApi.h</file>
-            <file>file:/C:/Miao/test/iCTPMinLinux/stdafx.h</file>
-            <file>file:/C:/Miao/test/iCTPMinLinux/MyTrade.h</file>
+            <file>file://Mac/Home/Desktop/todd/iCTP/newCode/iCTPMinLinux/TD.h</file>
+            <file>file://Mac/Home/Desktop/todd/iCTP/newCode/iCTPMinLinux/MyTrade.h</file>
+            <file>file://Mac/Home/Desktop/todd/iCTP/newCode/iCTPMinLinux/MT.cpp</file>
+            <file>file://Mac/Home/Desktop/todd/iCTP/newCode/iCTPMinLinux/MD.cpp</file>
+            <file>file://Mac/Home/Desktop/todd/iCTP/newCode/iCTPMinLinux/MT.h</file>
+            <file>file://Mac/Home/Desktop/todd/iCTP/newCode/iCTPMinLinux/MD.h</file>
+            <file>file://Mac/Home/Desktop/todd/iCTP/newCode/iCTPMinLinux/MyTrade.cpp</file>
+            <file>file://Mac/Home/Desktop/todd/iCTP/newCode/iCTPMinLinux/main.cpp</file>
+            <file>file://Mac/Home/Desktop/todd/iCTP/newCode/iCTPMinLinux/TD.cpp</file>
         </group>
     </open-files>
 </project-private>
