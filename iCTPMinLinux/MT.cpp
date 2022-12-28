@@ -480,24 +480,6 @@ MT::MT()
 MT::~MT()
 {
 	m_codesMap.clear();
-	if(m_events.size() > 0)
-	{
-		map<int, vector<void*>*>::iterator sIter = m_events.begin();
-		for(; sIter != m_events.end(); ++sIter)
-		{
-			delete sIter->second;
-		}
-		m_events.clear();
-	}
-	if(m_invokes.size() > 0)
-	{
-		map<int, vector<void*>*>::iterator sIter = m_invokes.begin();
-		for(; sIter != m_invokes.end(); ++sIter)
-		{
-			delete sIter->second;
-		}
-		m_invokes.clear();
-	}
 	m_listener = 0;
 	m_Lock.Lock();
 	for (size_t j = 0; j < m_querys.size(); ++j)
