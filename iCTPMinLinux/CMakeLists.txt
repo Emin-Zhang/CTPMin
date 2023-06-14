@@ -21,11 +21,11 @@ add_executable(${PROJECT_NAME}
 
 add_library(thostmduserapi SHARED IMPORTED)
 set_property(TARGET thostmduserapi PROPERTY
-        IMPORTED_LOCATION ${PROJECT_SOURCE_DIR}/lib/thostmduserapi_se.so)
+        IMPORTED_LOCATION ${PROJECT_SOURCE_DIR}/thostmduserapi_se.so)
 
 add_library(thosttraderapi SHARED IMPORTED)
 set_property(TARGET thosttraderapi PROPERTY
-        IMPORTED_LOCATION ${PROJECT_SOURCE_DIR}/lib/thosttraderapi_se.so)
+        IMPORTED_LOCATION ${PROJECT_SOURCE_DIR}/thosttraderapi_se.so)
 
 
 target_link_libraries(${PROJECT_NAME} thostmduserapi  thosttraderapi )
